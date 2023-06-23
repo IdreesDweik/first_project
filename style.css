@@ -25,8 +25,8 @@
 
 .fa-utensils{
     color: white;
-    background-color: #1c1c1c;
-    font-size: 45px;
+    background-color: #343434;
+    font-size: 40px;
     padding: 10px;
 }
 
@@ -34,14 +34,19 @@
 .delicious {
     font-family: 'Yellowtail', cursive;
     color: #1c1c1c;
-    font-size: 40px;
+    font-size: 25px;
     margin: 0;
+}
+
+.icons {
+    color: #343434;
+    font-size: 20px;
 }
 
 .best-blog {
     color: rgb(175, 172, 172);
     font-family: 'Pathway Gothic One', sans-serif;
-    font-size: xx-small;
+    font-size: 12px;
     white-space: nowrap;
 }
 
